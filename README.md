@@ -15,7 +15,7 @@ I take products from idea to production. Over a decade I've built and scaled mob
 
 ### Selected impact
 
-🏋️ **Debrief — Local** (2026–present)
+📝 **Debrief — Local** (2026–present)
 Working on an Offline AI Voice Transcriber using modern Swift technologies, currently in early development stages. It uses local hardwire capability to transcribe and report rather than using online AI tools.
 
 🏋️ **FitSuite — white-label fitness platform** (2024–present)
