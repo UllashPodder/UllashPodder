@@ -15,7 +15,7 @@ I take products from idea to production. Over a decade I've built and scaled mob
 
 ### Selected impact
 
-📝 **Debrief — Local** (2026–present)
+📝 **[Debrief Notes](https://apps.apple.com/us/app/debrief-notes/id6775488083)** (2026–Live)
 Working on an Offline AI Voice Transcriber using modern Swift technologies, currently in early development stages. It uses local hardwire capability to transcribe and report rather than using online AI tools.
 
 🏋️ **FitSuite — white-label fitness platform** (2024–present)
@@ -34,8 +34,10 @@ Shipped a healthcare iOS app for a US client in **under 20 working days**, manag
 
 ### Tech stack
 
-**Mobile** · Swift · Objective-C · Kotlin · Java · Flutter · Dart · MVVM · Clean Architecture
+**Mobile** · SwiftUI · UIKit · Objective-C · Kotlin · Java · Flutter · Dart · MVVM · Clean Architecture · TDD
+
 **Backend & Cloud** · Firebase (Auth, Firestore, Functions) · Google Cloud · REST APIs · Stripe · PostgreSQL · MySQL · Python
+
 **Leadership** · Technical leadership · Stakeholder management · Mentoring · Product delivery lifecycle
 
 ---
